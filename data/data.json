@@ -1398,6 +1398,16 @@
             "product": ["plastic", 2]
         },
         {
+           "name": "Easy Plastic",
+           "key_name": "easy-plastic",
+           "category": "refining",
+           "time": 6,
+           "ingredients": [
+               ["crude-oil", 2.5]
+           ],
+           "product": ["plastic", 2]
+       },
+        {
             "name": "Alternate: Recycled Plastic",
             "key_name": "alt-plastic",
             "category": "refining",
