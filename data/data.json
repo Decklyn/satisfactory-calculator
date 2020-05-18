@@ -24,14 +24,6 @@
             "name": "Conveyor Belt Mk.5",
             "key_name": "belt5",
             "rate": 780
-<<<<<<< HEAD
-        },
-        {
-            "name": "Conveyor Belt Mk.6",
-            "key_name": "belt6",
-            "rate": 2000
-=======
->>>>>>> parent of a507856... Update data.json
         }
     ],
     "buildings": [
@@ -968,21 +960,7 @@
             ],
             "product": ["cable", 20]
         },
-<<<<<<< HEAD
-        {
-                "name": "Easy Heavy Oil",
-                "key_name": "easy-heavy-oil",
-                "category": "refining",
-                "time": 6,
-                "ingredients": [
-                    ["crude-oil", 2.08]
-                ],
-                "product": ["heavy-oil-residue", 4]
-            },
-    {
-=======
 		{
->>>>>>> parent of a507856... Update data.json
             "name": "Alternate: Coated Cable",
             "key_name": "alt-coated-cable",
             "category": "refining",
