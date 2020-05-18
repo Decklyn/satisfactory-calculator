@@ -24,11 +24,14 @@
             "name": "Conveyor Belt Mk.5",
             "key_name": "belt5",
             "rate": 780
+<<<<<<< HEAD
         },
         {
             "name": "Conveyor Belt Mk.6",
             "key_name": "belt6",
             "rate": 2000
+=======
+>>>>>>> parent of a507856... Update data.json
         }
     ],
     "buildings": [
@@ -965,6 +968,7 @@
             ],
             "product": ["cable", 20]
         },
+<<<<<<< HEAD
         {
                 "name": "Easy Heavy Oil",
                 "key_name": "easy-heavy-oil",
@@ -976,6 +980,9 @@
                 "product": ["heavy-oil-residue", 4]
             },
     {
+=======
+		{
+>>>>>>> parent of a507856... Update data.json
             "name": "Alternate: Coated Cable",
             "key_name": "alt-coated-cable",
             "category": "refining",
@@ -1403,32 +1410,12 @@
             "product": ["polymer-resin", 13]
         },
         {
-            "name": "Easy Polymer Resin",
-            "key_name": "easy-polymer-resin",
-            "category": "refining",
-            "time": 6,
-            "ingredients": [
-                ["crude-oil", 5]
-            ],
-            "product": ["polymer-resin", 13]
-        },
-        {
             "name": "Plastic",
             "key_name": "plastic",
             "category": "refining",
             "time": 6,
             "ingredients": [
                 ["crude-oil", 3]
-            ],
-            "product": ["plastic", 2]
-        },
-        {
-            "name": "Easy Plastic",
-            "key_name": "easy-plastic",
-            "category": "refining",
-            "time": 6,
-            "ingredients": [
-                ["crude-oil", 2.5]
             ],
             "product": ["plastic", 2]
         },
@@ -1475,16 +1462,6 @@
             ],
             "product": ["fuel", 4]
         },
-        {
-                "name": "Easy Fuel",
-                "key_name": "easy-fuel",
-                "category": "refining",
-                "time": 6,
-                "ingredients": [
-                    ["crude-oil", 1.34]
-                ],
-                "product": ["fuel", 1.6]
-            },
         {
             "name": "Turbofuel",
             "key_name": "turbofuel",
@@ -1625,16 +1602,6 @@
             ],
             "product": ["rubber", 2]
         },
-        {
-                "name": "Easy Rubber",
-                "key_name": "easy-rubber",
-                "category": "refining",
-                "time": 6,
-                "ingredients": [
-                    ["crude-oil", 2]
-                ],
-                "product": ["rubber", 2]
-            },
         {
                 "name": "Alternate: Recycled Rubber",
                 "key_name": "alt-recycled-rubber",
@@ -2068,17 +2035,6 @@
             ],
             "product": ["alumina-solution", 8]
         },
-        {
-                "name": "Easy Alumina Solution",
-                "key_name": "easy-alumina-solution",
-                "category": "refining",
-                "time": 12,
-                "ingredients": [
-                    ["bauxite", 13],
-                    ["water", 8]
-                ],
-                "product": ["alumina-solution", 16]
-            },
 		{
             "name": "Aluminum Scrap",
             "key_name": "aluminum-scrap",
@@ -2090,17 +2046,6 @@
             ],
             "product": ["aluminum-scrap", 6]
         },
-        {
-                "name": "Easy Aluminum Scrap",
-                "key_name": "easy-aluminum-scrap",
-                "category": "refining",
-                "time": .7,
-                "ingredients": [
-                    ["alumina-solution", 3],
-                    ["petroleum-coke", 1]
-                ],
-                "product": ["aluminum-scrap", 5]
-            },
 		{
             "name": "Alternate: Electrode-Aluminum Scrap",
             "key_name": "alt-aluminum-scrap",
@@ -2112,17 +2057,6 @@
             ],
             "product": ["aluminum-scrap", 5]
         },
-        {
-                "name": "Easy Aluminum Scrap Alt",
-                "key_name": "alt-easy-aluminum-scrap",
-                "category": "refining",
-                "time": 1.2,
-                "ingredients": [
-                    ["alumina-solution", 2.95],
-                    ["coal", 1]
-                ],
-                "product": ["aluminum-scrap", 5]
-            },
         {
             "name": "Aluminum Ingot",
             "key_name": "aluminum-ingot",
