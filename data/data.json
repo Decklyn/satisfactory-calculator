@@ -971,7 +971,7 @@
                 "category": "refining",
                 "time": 6,
                 "ingredients": [
-                    ["oil", 2.08]
+                    ["crude-oil", 2.08]
                 ],
                 "product": ["heavy-oil-residue", 4]
             },
