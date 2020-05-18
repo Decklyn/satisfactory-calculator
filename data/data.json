@@ -1378,6 +1378,16 @@
             "product": ["circuit-board", 1]
         },
         {
+            "name": "Easy Polymer Resin",
+            "key_name": "easy-polymer-resin",
+            "category": "refining",
+            "time": 6,
+            "ingredients": [
+              ["crude-oil", 5]
+            ],
+            "product": ["polymer-resin", 13]
+        },
+        {
             "name": "Alternate: Polymer Resin",
             "key_name": "alt-polymer-resin",
             "category": "refining",
@@ -1450,6 +1460,16 @@
             ],
             "product": ["fuel", 4]
         },
+        {
+                "name": "Easy Fuel",
+                "key_name": "easy-fuel",
+                "category": "refining",
+                "time": 6,
+                "ingredients": [
+                    ["crude-oil", 1.34]
+                ],
+                "product": ["fuel", 1.6]
+            },
         {
             "name": "Turbofuel",
             "key_name": "turbofuel",
@@ -1579,6 +1599,16 @@
             ],
             "product": ["rubber", 2]
         },
+        {
+                "name": "Easy Rubber",
+                "key_name": "easy-rubber",
+                "category": "refining",
+                "time": 6,
+                "ingredients": [
+                    ["crude-oil", 2]
+                ],
+                "product": ["rubber", 2]
+            },
 		{
             "name": "Residual Rubber",
             "key_name": "residual-rubber",
@@ -2023,6 +2053,17 @@
             ],
             "product": ["alumina-solution", 8]
         },
+        {
+                "name": "Easy Alumina Solution",
+                "key_name": "easy-alumina-solution",
+                "category": "refining",
+                "time": 12,
+                "ingredients": [
+                    ["bauxite", 13],
+                    ["water", 8]
+                ],
+                "product": ["alumina-solution", 16]
+            },
 		{
             "name": "Aluminum Scrap",
             "key_name": "aluminum-scrap",
@@ -2034,6 +2075,17 @@
             ],
             "product": ["aluminum-scrap", 6]
         },
+        {
+               "name": "Easy Aluminum Scrap",
+               "key_name": "easy-aluminum-scrap",
+               "category": "refining",
+               "time": .7,
+               "ingredients": [
+                   ["alumina-solution", 3],
+                   ["petroleum-coke", 1]
+               ],
+               "product": ["aluminum-scrap", 5]
+           },
 		{
             "name": "Alternate: Electrode-Aluminum Scrap",
             "key_name": "alt-aluminum-scrap",
@@ -2045,6 +2097,17 @@
             ],
             "product": ["aluminum-scrap", 5]
         },
+        {
+                "name": "Easy Aluminum Scrap Alt",
+                "key_name": "alt-easy-aluminum-scrap",
+                "category": "refining",
+                "time": 1.2,
+                "ingredients": [
+                    ["alumina-solution", 2.95],
+                    ["coal", 1]
+                ],
+                "product": ["aluminum-scrap", 5]
+            },
         {
             "name": "Aluminum Ingot",
             "key_name": "aluminum-ingot",
