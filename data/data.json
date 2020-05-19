@@ -2087,6 +2087,28 @@
             "product": ["aluminum-scrap", 5]
         },
         {
+               "name": "Easy Aluminum Scrap",
+               "key_name": "easy-aluminum-scrap",
+               "category": "refining",
+               "time": .7,
+               "ingredients": [
+                   ["alumina-solution", 3],
+                   ["petroleum-coke", 1]
+               ],
+               "product": ["aluminum-scrap", 5]
+        },
+        {
+                "name": "Easy Aluminum Scrap Alt",
+                "key_name": "alt-easyaluminum-scrap",
+                "category": "refining",
+                "time": 1.2,
+                "ingredients": [
+                    ["alumina-solution", 2.95],
+                    ["coal", 1]
+                ],
+                "product": ["aluminum-scrap", 5]
+            },
+        {
             "name": "Aluminum Ingot",
             "key_name": "aluminum-ingot",
             "category": "smelting2",
