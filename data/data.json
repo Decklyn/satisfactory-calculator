@@ -1378,6 +1378,16 @@
             "product": ["circuit-board", 1]
         },
         {
+            "name": "Easy Polymer Resin",
+            "key_name": "easy-polymer-resin",
+            "category": "refining",
+            "time": 6,
+            "ingredients": [
+              ["crude-oil", 5]
+            ],
+            "product": ["polymer-resin", 13]
+        },
+        {
             "name": "Alternate: Polymer Resin",
             "key_name": "alt-polymer-resin",
             "category": "refining",
@@ -1450,6 +1460,16 @@
             ],
             "product": ["fuel", 4]
         },
+        {
+                "name": "Easy Fuel",
+                "key_name": "easy-fuel",
+                "category": "refining",
+                "time": 6,
+                "ingredients": [
+                    ["crude-oil", 1.34]
+                ],
+                "product": ["fuel", 1.6]
+            },
         {
             "name": "Turbofuel",
             "key_name": "turbofuel",
