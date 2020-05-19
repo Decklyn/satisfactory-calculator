@@ -24,6 +24,11 @@
             "name": "Conveyor Belt Mk.5",
             "key_name": "belt5",
             "rate": 780
+        },
+        {
+            "name": "Conveyor Belt Mk.6",
+            "key_name": "belt6",
+            "rate": 2000
         }
     ],
     "buildings": [
