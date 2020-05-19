@@ -1621,6 +1621,16 @@
                 ],
                 "product": ["rubber", 12]
             },
+            {
+                "name": "Easy Rubber",
+                "key_name": "easy-rubber",
+                "category": "refining",
+                "time": 6,
+                "ingredients": [
+                    ["crude-oil", 2]
+                ],
+                "product": ["rubber", 2]
+        },
         {
                     "name": "Alternate: Flexible Framework",
                     "key_name": "alt-flexible-framework",
@@ -2042,6 +2052,17 @@
                 ["water", 10]
             ],
             "product": ["alumina-solution", 8]
+        },
+        {
+                "name": "Easy Alumina Solution",
+                "key_name": "easy-alumina-solution",
+                "category": "refining",
+                "time": 12,
+                "ingredients": [
+                    ["bauxite", 13],
+                    ["water", 8]
+                ],
+                "product": ["alumina-solution", 16]
         },
 		{
             "name": "Aluminum Scrap",
